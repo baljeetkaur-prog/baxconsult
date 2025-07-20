@@ -7,7 +7,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/12-rules-life-mindmap-gurbax-singh-gurbax-singh',
     date: 'Jan 14, 2023',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #fff7cc, #fff0a3)', // yellow
   },
   {
@@ -15,7 +15,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/you-compromising-resources-cultural-stability-business-gurbax-singh-2f9te',
     date: 'Mar 19, 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #e3f2fd, #bbdefb)', // blue
   },
   {
@@ -23,7 +23,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/agentic-ai-fomo-business-decisions-gurbax-singh-53c1e',
     date: 'Mar 20, 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #ffcdd2, #ef9a9a)', // red
   },
   {
@@ -31,7 +31,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/anthropomorphismexciting-gurbax-singh-28h1e',
     date: 'Mar 26, 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #d1c4e9, #b39ddb)', // purple
   },
   {
@@ -39,7 +39,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/adopting-ai-consider-open-vs-care-frameworks-gurbax-singh-9hmoe',
     date: 'Mar 24, 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #c8e6c9, #a5d6a7)', // green
   },
   {
@@ -47,7 +47,7 @@ const linkedinPosts = [
     url: 'https://www.linkedin.com/pulse/re-imagining-brand-strategy-why-future-belongs-super-brands-singh-tr2re',
     date: 'May 23, 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     bg: 'linear-gradient(135deg, #ffe0b2, #ffcc80)', // orange
   },
 ];

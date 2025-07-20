@@ -36,7 +36,7 @@ const Whychooseus = () => {
 
           {/* Right Image */}
           <div className="col-lg-5 offset-lg-1 text-end mt-lg-0 mt-5 position-relative" data-aos="fade-left">
-            <img src="/images/gurbax.jpg" alt="Why Choose Us" className="img-fluid radius-image" />
+            <img src="/images/gurbax.JPG" alt="Why Choose Us" className="img-fluid radius-image" />
             <div className="imginfo__box">
               <h6 className="imginfo__title">28+</h6>
               <p>Years of Experience</p>
